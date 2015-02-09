@@ -1,0 +1,336 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CCAAE9500AE03A0500798A06 /* TestApp */;
+		activeTarget = 8DC2EF4F0486A6940098B216 /* LuaCore */;
+		addToTargets = (
+			8DC2EF4F0486A6940098B216 /* LuaCore */,
+		);
+		breakpoints = (
+			CC4853540AFC164800D237E1 /* LuaObjCBridge.m:261 */,
+			CC48535A0AFC16B300D237E1 /* LuaObjCBridge.m:261 */,
+			CC4853610AFC178700D237E1 /* LuaObjCBridge.m:261 */,
+		);
+		codeSenseManager = CC0BC5340A7C8CC900BE8BD3 /* Code sense */;
+		executables = (
+			CCAAE9500AE03A0500798A06 /* TestApp */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					249,
+					20,
+					150,
+					150,
+					78,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					439,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					259,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 184291510;
+			PBXWorkspaceStateSaveDate = 184291510;
+		};
+		sourceControlManager = CC0BC5330A7C8CC900BE8BD3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32DBCF5E0370ADEE00C91783 /* LuaCore_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 600}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {816, 600}}";
+		};
+	};
+	8DC2EF4F0486A6940098B216 /* LuaCore */ = {
+		activeExec = 0;
+	};
+	8DC2EF5A0486A6940098B216 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1166, 725}}";
+			sepNavSelRange = "{274, 0}";
+			sepNavVisRect = "{{0, 0}, {1166, 725}}";
+		};
+	};
+	CC0BC5330A7C8CC900BE8BD3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	CC0BC5340A7C8CC900BE8BD3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CC0BC5450A7C8D0300BE8BD3 /* LCLua.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 936}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {1060, 936}}";
+		};
+	};
+	CC0BC5460A7C8D0300BE8BD3 /* LCLua.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 3962}}";
+			sepNavSelRange = "{585, 0}";
+			sepNavVisRect = "{{0, 0}, {1060, 936}}";
+		};
+	};
+	CC0BC5470A7C8D0300BE8BD3 /* LCLuaFoundation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 936}}";
+			sepNavSelRange = "{930, 0}";
+			sepNavVisRect = "{{0, 0}, {1060, 936}}";
+		};
+	};
+	CC0BC5480A7C8D0300BE8BD3 /* LCLuaFoundation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1225, 5796}}";
+			sepNavSelRange = "{8591, 19}";
+			sepNavVisRect = "{{0, 4474}, {1225, 897}}";
+		};
+	};
+	CC0BC54B0A7C8D0300BE8BD3 /* lposix.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 12558}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 11622}, {1060, 936}}";
+		};
+	};
+	CC0BC54C0A7C8D0300BE8BD3 /* lposix.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 936}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {1060, 936}}";
+		};
+	};
+	CC0BC5500A7C8D0300BE8BD3 /* LuaObjCBridge.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1225, 924}}";
+			sepNavSelRange = "{1560, 50}";
+			sepNavVisRect = "{{0, 27}, {1225, 897}}";
+		};
+	};
+	CC0BC5510A7C8D0300BE8BD3 /* LuaObjCBridge.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1225, 18872}}";
+			sepNavSelRange = "{8622, 0}";
+			sepNavVisRect = "{{0, 3465}, {1225, 897}}";
+		};
+	};
+	CC0BC5870A7C90D500BE8BD3 /* LuaCore.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 936}}";
+			sepNavSelRange = "{166, 0}";
+			sepNavVisRect = "{{0, 0}, {1060, 936}}";
+		};
+	};
+	CC3BDB0D0A9111D5006EDEF0 /* lapi.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 5292}}";
+			sepNavSelRange = "{7699, 10}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+		};
+	};
+	CC3BDB0F0A9111D5006EDEF0 /* lauxlib.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 3836}}";
+			sepNavSelRange = "{9381, 10}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+		};
+	};
+	CC3BDB110A9111D5006EDEF0 /* lbaselib.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 6370}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 428}, {974, 847}}";
+		};
+	};
+	CC3BDB390A9111D5006EDEF0 /* lua.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {974, 3850}}";
+			sepNavSelRange = "{1584, 11}";
+			sepNavVisRect = "{{0, 662}, {974, 847}}";
+		};
+	};
+	CC4853540AFC164800D237E1 /* LuaObjCBridge.m:261 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CC0BC5510A7C8D0300BE8BD3 /* LuaObjCBridge.m */;
+		functionName = "lua_objc_getid(lua_State* state,int stack_index)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 261;
+		location = LuaCore;
+		modificationTime = 184293768.809634;
+		state = 2;
+	};
+	CC48535A0AFC16B300D237E1 /* LuaObjCBridge.m:261 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CC0BC5510A7C8D0300BE8BD3 /* LuaObjCBridge.m */;
+		functionName = "lua_objc_getid(lua_State* state,int stack_index)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 261;
+		location = LuaCore;
+		modificationTime = 184293768.809654;
+		state = 2;
+	};
+	CC4853610AFC178700D237E1 /* LuaObjCBridge.m:261 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CC0BC5510A7C8D0300BE8BD3 /* LuaObjCBridge.m */;
+		functionName = "lua_objc_getid(lua_State* state,int stack_index)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 261;
+		location = LuaCore;
+		modificationTime = 184293768.809668;
+		state = 2;
+	};
+	CC9578300AE04C73000F0C5C /* cgtest.lua */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 936}}";
+			sepNavSelRange = "{1153, 0}";
+			sepNavVisRect = "{{0, 0}, {1060, 936}}";
+			sepNavWindowFrame = "{{38, 62}, {958, 658}}";
+		};
+	};
+	CCAAE94E0AE03A0500798A06 /* TestApp */ = {
+		activeExec = 0;
+		executables = (
+			CCAAE9500AE03A0500798A06 /* TestApp */,
+		);
+	};
+	CCAAE9500AE03A0500798A06 /* TestApp */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TestApp;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	CCAAE9630AE03A9E00798A06 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 936}}";
+			sepNavSelRange = "{0, 1530}";
+			sepNavVisRect = "{{0, 0}, {1060, 936}}";
+			sepNavWindowFrame = "{{14, 163}, {966, 578}}";
+		};
+	};
+	CCAAE98A0AE03EDC00798A06 /* simpletest.lua */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1225, 897}}";
+			sepNavSelRange = "{178, 0}";
+			sepNavVisRect = "{{0, 0}, {1225, 897}}";
+		};
+	};
+	CCAAE9930AE046D000798A06 /* LCCoreGraphics.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 4662}}";
+			sepNavSelRange = "{8193, 0}";
+			sepNavVisRect = "{{0, 0}, {1060, 936}}";
+		};
+	};
+	CCAAE9940AE046D000798A06 /* LCCoreGraphics.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1060, 936}}";
+			sepNavSelRange = "{165, 0}";
+			sepNavVisRect = "{{0, 0}, {1060, 936}}";
+		};
+	};
+}

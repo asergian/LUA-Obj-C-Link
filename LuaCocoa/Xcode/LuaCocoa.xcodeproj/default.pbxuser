@@ -1,0 +1,335 @@
+// !$*UTF8*$!
+{
+	0050B3B51086942700DFBEC6 /* ParseSupport.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1384, 10686}}";
+			sepNavSelRange = "{319, 6}";
+			sepNavVisRange = "{8803, 1852}";
+		};
+	};
+	0050B3C01086A2AF00DFBEC6 /* ParseSupportStruct.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 2912}}";
+			sepNavSelRange = "{3479, 8}";
+			sepNavVisRange = "{1670, 2303}";
+		};
+	};
+	0051AD591256968F0047D73E /* luacocoa_shell */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			NO,
+			NO,
+		);
+		argumentStrings = (
+			../../../LuaCocoa/Samples/MinimalAppKit/MinimalAppKit.lua,
+			../../../LuaCocoa/Samples/ScriptingBridge_iTunes/ScriptingBridge_iTunes.lua,
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = NO;
+				name = OBJC_DISABLE_GC;
+				value = YES;
+			},
+			{
+				active = NO;
+				name = DYLD_FALLBACK_FRAMEWORK_PATH;
+				value = "$(DEVELOPER_LIBRARY_DIR)/Frameworks:$(DEVELOPER_LIBRARY_DIR)/PrivateFramework";
+			},
+			{
+				active = NO;
+				name = NSZombieEnabled;
+				value = YES;
+			},
+			{
+				active = NO;
+				name = CFZombieEnabled;
+				value = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = luacocoa_shell;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0051AD5A1256968F0047D73E /* BasicCocoaApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BasicCocoaApp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0051AD5B1256968F0047D73E /* SimpleLuaView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimpleLuaView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0051AEC41256B5380047D73E /* Embed luacocoa_shell */ = {
+		activeExec = 0;
+	};
+	0051AEE21256B6580047D73E /* Build LuaCocoa and Utilities */ = {
+		activeExec = 0;
+	};
+	006467DC1081A1CA00183915 /* TestApp */ = {
+		activeExec = 0;
+		executables = (
+			0097AC2F10C5EF0500DABE6A /* TestApp */,
+		);
+	};
+	00689FDF10A88CDC006EAA0E /* LuaFunctionBridge.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1601, 14079}}";
+			sepNavSelRange = "{636, 0}";
+			sepNavVisRange = "{0, 1604}";
+			sepNavWindowFrame = "{{15, 70}, {917, 953}}";
+		};
+	};
+	0068A6D510AB3DCE006EAA0E /* LuaCocoa.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1573, 14157}}";
+			sepNavSelRange = "{666, 8}";
+			sepNavVisRange = "{12480, 2605}";
+		};
+	};
+	0097AC2F10C5EF0500DABE6A /* TestApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = YES;
+				name = OBJC_DISABLE_GC;
+				value = YES;
+			},
+			{
+				active = YES;
+				name = DYLD_FALLBACK_FRAMEWORK_PATH;
+				value = "$(DEVELOPER_LIBRARY_DIR)/Frameworks:$(DEVELOPER_LIBRARY_DIR)/PrivateFramework";
+			},
+			{
+				active = NO;
+				name = NSZombieEnabled;
+				value = YES;
+			},
+			{
+				active = NO;
+				name = CFZombieEnabled;
+				value = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TestApp;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+	};
+	0097AC4510C5EF0F00DABE6A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"<Project File Directory>/.." = "";
+			};
+		};
+	};
+	0097AC4610C5EF0F00DABE6A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	00E16941124596690095535F /* luacocoa_shell */ = {
+		activeExec = 0;
+		executables = (
+			0051AD591256968F0047D73E /* luacocoa_shell */,
+		);
+	};
+	00E1696C1245973A0095535F /* luacocoa_shell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 5395}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{9173, 2324}";
+			sepNavWindowFrame = "{{15, 70}, {917, 953}}";
+		};
+	};
+	00E169911245AC720095535F /* BasicCocoaApp */ = {
+		activeExec = 0;
+		executables = (
+			0051AD5A1256968F0047D73E /* BasicCocoaApp */,
+		);
+	};
+	00E16A871245B6C10095535F /* BasicViewApp.lua */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {858, 975}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1672}";
+			sepNavWindowFrame = "{{15, 70}, {917, 953}}";
+		};
+	};
+	00E16AEE1245BD2D0095535F /* SimpleLuaView */ = {
+		activeExec = 0;
+		executables = (
+			0051AD5B1256968F0047D73E /* SimpleLuaView */,
+		);
+	};
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0051AD591256968F0047D73E /* luacocoa_shell */;
+		activeTarget = 0051AEE21256B6580047D73E /* Build LuaCocoa and Utilities */;
+		addToTargets = (
+			8DC2EF4F0486A6940098B216 /* LuaCocoa */,
+		);
+		codeSenseManager = 0097AC4610C5EF0F00DABE6A /* Code sense */;
+		executables = (
+			0097AC2F10C5EF0500DABE6A /* TestApp */,
+			0051AD591256968F0047D73E /* luacocoa_shell */,
+			0051AD5A1256968F0047D73E /* BasicCocoaApp */,
+			0051AD5B1256968F0047D73E /* SimpleLuaView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					252,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					324,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 307684113;
+			PBXWorkspaceStateSaveDate = 307684113;
+		};
+		sourceControlManager = 0097AC4510C5EF0F00DABE6A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8DC2EF4F0486A6940098B216 /* LuaCocoa */ = {
+		activeExec = 0;
+	};
+}

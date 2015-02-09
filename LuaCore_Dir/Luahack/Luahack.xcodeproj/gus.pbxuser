@@ -1,0 +1,339 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeBuildStyle = CC33FB370AE883CA00BD1DD4 /* Development */;
+		activeExecutable = CC95791B0AE0821F000F0C5C /* TextEdit */;
+		activeTarget = 8D5B49AC048680CD000E48DA /* Luahack */;
+		addToTargets = (
+			8D5B49AC048680CD000E48DA /* Luahack */,
+		);
+		breakpoints = (
+			CCE75CDD0AE095B7003686FA /* NSBeep() */,
+		);
+		breakpointsGroup = CC33FB4D0AE8853E00BD1DD4 /* XCBreakpointsBucket */;
+		codeSenseManager = CC9579050AE07FB6000F0C5C /* Code sense */;
+		executables = (
+			CC95791B0AE0821F000F0C5C /* TextEdit */,
+			CC9579650AE09012000F0C5C /* Xcode */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 183061339;
+			PBXWorkspaceStateSaveDate = 183061339;
+		};
+		perUserProjectItems = {
+			CC33FBBC0AE94B3A00BD1DD4 /* PBXTextBookmark */ = CC33FBBC0AE94B3A00BD1DD4 /* PBXTextBookmark */;
+			CC33FBE00AE94F8100BD1DD4 /* PBXTextBookmark */ = CC33FBE00AE94F8100BD1DD4 /* PBXTextBookmark */;
+			CC33FBE10AE94F8100BD1DD4 /* PBXTextBookmark */ = CC33FBE10AE94F8100BD1DD4 /* PBXTextBookmark */;
+			CC33FBE40AE94F8100BD1DD4 /* PBXTextBookmark */ = CC33FBE40AE94F8100BD1DD4 /* PBXTextBookmark */;
+			CC33FBE60AE94F8100BD1DD4 /* PBXTextBookmark */ = CC33FBE60AE94F8100BD1DD4 /* PBXTextBookmark */;
+			CC33FBE80AE94F8100BD1DD4 /* PBXTextBookmark */ = CC33FBE80AE94F8100BD1DD4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = CC9579040AE07FB6000F0C5C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32DBCF630370AF2F00C91783 /* Luahack_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 600}}";
+			sepNavSelRange = "{166, 0}";
+			sepNavVisRect = "{{0, 0}, {816, 600}}";
+		};
+	};
+	8D5B49AC048680CD000E48DA /* Luahack */ = {
+		activeExec = 0;
+	};
+	8D5B49B7048680CD000E48DA /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 577}}";
+			sepNavSelRange = "{760, 0}";
+			sepNavVisRect = "{{0, 0}, {816, 577}}";
+		};
+	};
+	CC33FB4D0AE8853E00BD1DD4 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+			CCE75CDD0AE095B7003686FA /* NSBeep() */,
+		);
+	};
+	CC33FBBC0AE94B3A00BD1DD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CC9579160AE081B3000F0C5C /* LuahackLoader.m */;
+		name = "LuahackLoader.m: 105";
+		rLen = 0;
+		rLoc = 3337;
+		rType = 0;
+		vrLen = 623;
+		vrLoc = 3023;
+	};
+	CC33FBE00AE94F8100BD1DD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CCEB3BFB0AE0B47A00567876 /* LHExtraFunctions.m */;
+		name = "LHExtraFunctions.m: 101";
+		rLen = 0;
+		rLoc = 2598;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 2245;
+	};
+	CC33FBE10AE94F8100BD1DD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CCEB3BFB0AE0B47A00567876 /* LHExtraFunctions.m */;
+		name = "LHExtraFunctions.m: lua_luahacks_extras_functions";
+		rLen = 335;
+		rLoc = 2416;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 2255;
+	};
+	CC33FBE40AE94F8100BD1DD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CC33FBE50AE94F8100BD1DD4 /* com.apple.TextEdit.lua */;
+		rLen = 0;
+		rLoc = 2147483522;
+		rType = 0;
+	};
+	CC33FBE50AE94F8100BD1DD4 /* com.apple.TextEdit.lua */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.lua;
+		name = com.apple.TextEdit.lua;
+		path = "/Users/gus/Library/Application Support/Luahacks/com.apple.TextEdit.lua";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 566}}";
+			sepNavSelRange = "{25, 0}";
+			sepNavVisRect = "{{0, 0}, {913, 566}}";
+			sepNavWindowFrame = "{{38, 62}, {958, 658}}";
+		};
+	};
+	CC33FBE60AE94F8100BD1DD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CC33FBE70AE94F8100BD1DD4 /* com.apple.TextEdit.lua */;
+		name = "(null): 3";
+		rLen = 0;
+		rLoc = 25;
+		rType = 0;
+		vrLen = 309;
+		vrLoc = 0;
+	};
+	CC33FBE70AE94F8100BD1DD4 /* com.apple.TextEdit.lua */ = {
+		isa = PBXFileReference;
+		name = com.apple.TextEdit.lua;
+		path = "/Users/gus/Library/Application Support/Luahacks/com.apple.TextEdit.lua";
+		sourceTree = "<absolute>";
+	};
+	CC33FBE80AE94F8100BD1DD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CC9579160AE081B3000F0C5C /* LuahackLoader.m */;
+		name = "LuahackLoader.m: 105";
+		rLen = 0;
+		rLoc = 3337;
+		rType = 0;
+		vrLen = 623;
+		vrLoc = 3023;
+	};
+	CC574F600AE0B84200F337D9 /* LHKeyGrabber.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 434}}";
+			sepNavSelRange = "{339, 0}";
+			sepNavVisRect = "{{0, 105}, {740, 197}}";
+		};
+	};
+	CC574F610AE0B84200F337D9 /* LHKeyGrabber.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1032, 820}}";
+			sepNavSelRange = "{443, 0}";
+			sepNavVisRect = "{{0, 0}, {1032, 820}}";
+		};
+	};
+	CC574F810AE0BCC500F337D9 /* LHKeyGrabberView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1032, 820}}";
+			sepNavSelRange = "{213, 0}";
+			sepNavVisRect = "{{0, 0}, {1032, 820}}";
+		};
+	};
+	CC574F820AE0BCC500F337D9 /* LHKeyGrabberView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 728}}";
+			sepNavSelRange = "{450, 0}";
+			sepNavVisRect = "{{0, 0}, {1084, 728}}";
+		};
+	};
+	CC9579040AE07FB6000F0C5C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	CC9579050AE07FB6000F0C5C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CC9579150AE081B3000F0C5C /* LuahackLoader.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {816, 577}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {816, 577}}";
+		};
+	};
+	CC9579160AE081B3000F0C5C /* LuahackLoader.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1381.02, 3625}}";
+			sepNavSelRange = "{3337, 0}";
+			sepNavVisRect = "{{0, 2370}, {921, 486}}";
+			sepNavWindowFrame = "{{-17, 76}, {966, 578}}";
+		};
+	};
+	CC95791B0AE0821F000F0C5C /* TextEdit */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = CC95791C0AE0821F000F0C5C /* TextEdit.app */;
+		libgmallocEnabled = 0;
+		name = TextEdit;
+		sourceDirectories = (
+		);
+	};
+	CC95791C0AE0821F000F0C5C /* TextEdit.app */ = {
+		isa = PBXFileReference;
+		explicitFileType = wrapper.application;
+		name = TextEdit.app;
+		path = /Applications/TextEdit.app;
+		sourceTree = "<absolute>";
+	};
+	CC9579360AE087FB000F0C5C /* expand.lua */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1553.85, 1175}}";
+			sepNavSelRange = "{794, 0}";
+			sepNavVisRect = "{{0, 445}, {921, 486}}";
+			sepNavWindowFrame = "{{15, 163}, {966, 578}}";
+		};
+	};
+	CC9579650AE09012000F0C5C /* Xcode */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = CC9579660AE09012000F0C5C /* Xcode.app */;
+		libgmallocEnabled = 0;
+		name = Xcode;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	CC9579660AE09012000F0C5C /* Xcode.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = Xcode.app;
+		path = /Developer/Applications/Xcode.app;
+		sourceTree = "<absolute>";
+	};
+	CCE75CDD0AE095B7003686FA /* NSBeep() */ = {
+		isa = PBXSymbolicBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		location = "";
+		modificationTime = 182491629.638725;
+		state = 1;
+		symbolName = "NSBeep()";
+	};
+	CCEB3BFA0AE0B47A00567876 /* LHExtraFunctions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 870}}";
+			sepNavSelRange = "{204, 48}";
+			sepNavVisRect = "{{0, 0}, {1307, 870}}";
+		};
+	};
+	CCEB3BFB0AE0B47A00567876 /* LHExtraFunctions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1402.62, 2725}}";
+			sepNavSelRange = "{2416, 335}";
+			sepNavVisRect = "{{0, 2159}, {913, 566}}";
+			sepNavWindowFrame = "{{7, 81}, {958, 658}}";
+		};
+	};
+}
