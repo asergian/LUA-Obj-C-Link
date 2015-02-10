@@ -1,6 +1,6 @@
-#import "lua.h"
-#import "lualib.h"
-#import "lauxlib.h"
+#import "Lua/lua.h"
+#import "Lua/lualib.h"
+#import "Lua/lauxlib.h"
 #import "LuaBridge/LuaBridge.h"
 #import <Foundation/Foundation.h>
 //#import <LuaCore/LuaCore.h>
@@ -27,7 +27,7 @@
 
 int main(int argc, const char * argv[]) {
 	lua_State *L = [[LuaBridge instance] L];
-	[(id) L dostring:@"yes"];
+	//[(id) L dostring:@"yes"];
 
 /*	int return_variable = 0;
 	LuaCocoa* lua = nil;
